@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 ## Project Description
-In this project for class we used our knowledge of the DOM and working with arrays and functions to complete this. When the code is run a pac-man character moves accross the screen, then turns once its reached the end of the screen, this loops continously.
+In this project for class we used our knowledge of working with api's and json to get real time information on the locations of buses in the Boston area. We took that information which is given to us in json format. We took the data and superimposed it over a google map html object. 
 
 ## How to Run
 You can run this by either cloning the repository, or downloading a copy of the entire repository.
